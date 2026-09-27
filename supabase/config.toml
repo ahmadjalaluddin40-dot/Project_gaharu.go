@@ -1,0 +1,35 @@
+﻿# GAHARU Website - Supabase CLI configuration
+# Linked to remote project: kzfhaymbvljocabwtach
+
+project_id = "gaharu"
+
+[api]
+port = 54321
+schemas = ["public", "storage", "graphql_public"]
+root_key = "service_role"
+enable_middleware = false
+
+[db]
+port = 5432
+shadow_port = 5433
+primary_user_friendly = false
+
+[db.pooler]
+enabled = false
+port = 5433
+pool_mode = "transaction"
+default_pool_size = 20
+max_client_conn = 100
+
+[storage]
+file_size_limit = "50MiB"
+image_transformation = { enabled = true }
+
+[auth]
+enabled = true
+
+[functions]
+enable_logger = false
+
+[analytics]
+enabled = false
