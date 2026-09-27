@@ -1,0 +1,676 @@
+{
+  "site": {
+    "hero": {
+      "eyebrow": {
+        "id": "GERAKAN KONSERVASI HUTAN & LINGKUNGAN",
+        "en": "FOREST & ENVIRONMENTAL CONSERVATION MOVEMENT"
+      },
+      "headline": {
+        "id": "Merawat hutan, menjaga kehidupan.",
+        "en": "Protecting forests, nurturing life."
+      },
+      "body": {
+        "id": "Berangkat dari Muna, kami bekerja bersama masyarakat untuk memulihkan pesisir dan menjaga alam yang menghidupi kita.",
+        "en": "Rooted in Muna, we work with communities to restore coastlines and protect the nature that sustains us."
+      },
+      "image": {
+        "url": "https://images.pexels.com/photos/39561797/pexels-photo-39561797.jpeg?auto=compress&cs=tinysrgb",
+        "alt": {
+          "id": "Pemandangan udara hutan mangrove dan jalur air di pesisir",
+          "en": "Aerial view of a mangrove forest and a coastal waterway"
+        },
+        "credit": "Amar Preciado / Pexels (foto ilustrasi)",
+        "creditUrl": "https://www.pexels.com/photo/aerial-view-of-serene-mangrove-forest-and-boat-39561797/"
+      }
+    },
+    "impact": {
+      "eyebrow": { "id": "JEJAK DAMPAK", "en": "OUR IMPACT" },
+      "title": { "id": "Perubahan dimulai dari kerja yang nyata.", "en": "Change begins with work on the ground." },
+      "body": {
+        "id": "Angka-angka ini berasal dari pengawasan rehabilitasi mangrove Muna Barat pada 2020 dan pemeliharaan tahun pertama pada 2021.",
+        "en": "These figures come from the 2020 West Muna mangrove rehabilitation assessment and its first-year maintenance report in 2021."
+      }
+    },
+    "metrics": [
+      {
+        "value": { "id": "45 ha", "en": "45 ha" },
+        "label": { "id": "area mangrove direhabilitasi", "en": "of mangroves rehabilitated" },
+        "note": { "id": "Tiga petak di Muna Barat", "en": "Three plots in West Muna" }
+      },
+      {
+        "value": { "id": "147.000+", "en": "147,000+" },
+        "label": { "id": "bibit mangrove ditanam", "en": "mangrove seedlings planted" },
+        "note": { "id": "Rhizophora sp. dan Bruguiera sp.", "en": "Rhizophora sp. and Bruguiera sp." }
+      },
+      {
+        "value": { "id": "91,3%", "en": "91.3%" },
+        "label": { "id": "tingkat tumbuh tertinggi pada P1", "en": "highest first-year survival rate" },
+        "note": { "id": "Rentang per petak: 88,5-91,3%", "en": "Range across plots: 88.5-91.3%" }
+      }
+    ],
+    "aboutPreview": {
+      "eyebrow": { "id": "TENTANG GAHARU", "en": "ABOUT GAHARU" },
+      "title": { "id": "Menjaga kelestarian dan keharmonisan manusia dengan alam.", "en": "Sustaining harmony between people and nature." },
+      "body": {
+        "id": "LSM GAHARU bergerak untuk mewujudkan Cita-Cita Nasional melalui konservasi hutan dan lingkungan. Kinerja kami diarahkan pada capaian yang terukur, obyektif, transparan, independen, dan berintegritas.",
+        "en": "GAHARU works toward Indonesia's national aspirations through forest and environmental conservation. Our work is guided by measurable outcomes and an objective, transparent, independent, and integrity-led approach."
+      },
+      "image": {
+        "url": "https://images.pexels.com/photos/32281031/pexels-photo-32281031.jpeg?auto=compress&cs=tinysrgb",
+        "alt": { "id": "Pohon mangrove di perairan Nusa Tenggara saat matahari terbit", "en": "Mangrove trees in Nusa Tenggara waters at sunrise" },
+        "credit": "Cak Pan / Pexels (foto ilustrasi)",
+        "creditUrl": "https://www.pexels.com/photo/stunning-mangrove-trees-in-nusa-tenggara-indonesia-32281031/"
+      }
+    },
+    "programsPreview": {
+      "eyebrow": { "id": "PROGRAM KAMI", "en": "OUR PROGRAMS" },
+      "title": { "id": "Sembilan rumpun kerja untuk alam dan masyarakat.", "en": "Nine areas of work for nature and communities." },
+      "body": {
+        "id": "Dari pemulihan hutan dan mangrove hingga perhutanan sosial, energi, dan pengelolaan sampah, setiap inisiatif disesuaikan dengan kebutuhan serta data lapangan.",
+        "en": "From forests and mangroves to social forestry, renewable energy, and waste management, every initiative is shaped by local needs and field data."
+      }
+    },
+    "publicationsPreview": {
+      "eyebrow": { "id": "CERITA & PENGETAHUAN", "en": "STORIES & KNOWLEDGE" },
+      "title": { "id": "Mengenal alam, memahami cara menjaganya.", "en": "Know nature. Learn how to protect it." },
+      "body": {
+        "id": "Catatan lapangan dan bacaan sederhana tentang hutan, pesisir, serta upaya menjaganya.",
+        "en": "Field notes and accessible reads about forests, coastlines, and the work to protect them."
+      }
+    },
+    "mapPreview": {
+      "eyebrow": { "id": "WILAYAH KERJA", "en": "WHERE WE WORK" },
+      "title": { "id": "Cakupan nasional, kerja yang berakar di tingkat tapak.", "en": "Nationwide scope, rooted in local action." },
+      "body": {
+        "id": "GAHARU memiliki cakupan kerja seluruh Indonesia. Peta menampilkan contoh lokasi studi kasus rehabilitasi mangrove di empat desa Kabupaten Muna Barat.",
+        "en": "GAHARU's work has a nationwide scope. The map highlights a documented mangrove rehabilitation case study across four villages in West Muna."
+      }
+    },
+    "workArea": {
+      "scope": { "id": "Seluruh Indonesia / Nasional", "en": "Nationwide across Indonesia" },
+      "note": {
+        "id": "Cakupan organisasi bersifat nasional. Peta di bawah menunjukkan salah satu lokasi program yang terdokumentasi, yakni studi kasus rehabilitasi mangrove di Lahaji, Umba, Lemoambo, dan Kasakamu, Kabupaten Muna Barat; bukan batas seluruh wilayah kerja GAHARU.",
+        "en": "The organization's scope is nationwide. The map below shows one documented program location: a mangrove rehabilitation case study in Lahaji, Umba, Lemoambo, and Kasakamu, West Muna Regency; it does not represent the full extent of GAHARU's work."
+      }
+    },
+    "partnerCta": {
+      "eyebrow": { "id": "BERGERAK BERSAMA", "en": "MOVE FORWARD TOGETHER" },
+      "title": { "id": "Alam yang lestari adalah kerja kita bersama.", "en": "A thriving planet takes all of us." },
+      "body": {
+        "id": "Mari satukan pengetahuan, sumber daya, dan aksi nyata untuk dampak yang bertahan lama.",
+        "en": "Let's bring knowledge, resources, and meaningful action together for lasting impact."
+      },
+      "image": {
+        "url": "https://images.pexels.com/photos/35043040/pexels-photo-35043040.jpeg?auto=compress&cs=tinysrgb",
+        "alt": { "id": "Pesisir hijau di Indonesia dilihat dari udara", "en": "A green Indonesian coastline seen from above" },
+        "credit": "Tom Fisk / Pexels (foto ilustrasi)",
+        "creditUrl": "https://www.pexels.com/photo/aerial-view-of-tropical-beach-in-bali-indonesia-35043040/"
+      }
+    },
+    "aboutPage": {
+      "eyebrow": { "id": "MENGENAL KAMI", "en": "GET TO KNOW US" },
+      "title": { "id": "Merawat hutan dan lingkungan secara berkelanjutan.", "en": "Conserving forests and the environment for the long term." },
+      "body": {
+        "id": "LSM GAHARU merupakan Organisasi Non Pemerintah yang perjuangannya menitikberatkan pada perwujudan Cita-Cita Nasional melalui Gerakan Konservasi Hutan dan Lingkungan. Kinerja kami diarahkan pada capaian yang terukur, obyektif, dan transparan, dengan cara kerja yang tegas, independen, dan berintegritas untuk mewujudkan kelestarian serta keharmonisan hidup antara manusia dan alam secara berkelanjutan.",
+        "en": "GAHARU is a non-governmental organization dedicated to advancing Indonesia's national aspirations through forest and environmental conservation. Our work pursues measurable, objective, and transparent outcomes, guided by a firm, independent, and integrity-led approach to sustaining harmony between people and nature."
+      },
+      "image": {
+        "url": "/images/kunjungan-mangrove-gaharu.jpg",
+        "alt": { "id": "Tim GAHARU berfoto bersama saat kunjungan lapangan di kawasan pesisir", "en": "A GAHARU team group portrait during a field visit in a coastal area" },
+        "credit": "Rekonstruksi AI sementara dari referensi pengguna / Temporary AI reconstruction from user reference"
+      },
+      "historyTitle": { "id": "Dari diskusi aktivis menjadi gerakan konservasi.", "en": "From activist discussions to a conservation movement." },
+      "history": {
+        "id": "LSM GAHARU terbentuk pada 20 Mei 2011. Menurut catatan sejarah lembaga, kemunculannya diawali oleh diskusi para aktivis yang kurang puas terhadap kinerja mayoritas LSM lingkungan di Indonesia. Dalam pandangan para penggagas pada masa itu, sebagian praktik dinilai oportunistis dan hipokrit serta belum mampu memberi kontribusi positif yang memadai bagi pengelolaan sumber daya alam. Kritik tersebut menggambarkan konteks dan kegelisahan para pendiri, bukan generalisasi terhadap seluruh organisasi lingkungan.\n\nPara penggagas juga mencatat bahwa meskipun gerakan LSM di Indonesia telah hadir sejak dekade 1970-an, tantangan dalam pengelolaan sumber daya alam masih besar. Data Kementerian Lingkungan Hidup dan Kehutanan yang dikutip dalam profil lembaga menyebut deforestasi pada 1996-2000 mencapai 3,51 juta hektar per tahun.\n\nProfil lembaga merujuk Laporan BPK RI 2008 mengenai Gerakan Nasional Rehabilitasi Hutan dan Lahan (GNRHL) 2003-2007. Di Jawa Barat, realisasi fisik rehabilitasi yang dicatat adalah 200.005 hektar dari target 580.397 hektar, dengan kerugian negara sebesar Rp3.635.517.900. Di Jawa Timur, realisasi tercatat 69.283 hektar dari target 365.080 hektar atau 18,98%, dengan kerugian negara sebesar Rp12.408.517.475.\n\nBerlatar pada keprihatinan dan catatan sejarah tersebut, GAHARU hadir sebagai gerakan Organisasi Non Pemerintah yang memperjuangkan konservasi hutan dan lingkungan dengan capaian yang terukur, obyektif, dan transparan serta cara kerja yang tegas, independen, dan berintegritas.\n\nAngka-angka deforestasi, rehabilitasi, dan kerugian negara di atas adalah data historis sebagaimana dikutip dalam profil lembaga, bukan gambaran kondisi terkini.",
+        "en": "GAHARU was established on 20 May 2011. According to the organization's historical account, it began with discussions among activists who were dissatisfied with the performance of most environmental NGOs in Indonesia. In the founders' view at the time, some practices were opportunistic and hypocritical and had not made a sufficient positive contribution to natural resource management. This criticism reflects the founders' concerns in that period; it is not a generalization about every environmental organization.\n\nThe founders also noted that although Indonesia's NGO movement had emerged in the 1970s, significant challenges in natural resource management remained. Ministry of Environment and Forestry data cited in the organization's profile put deforestation in 1996-2000 at 3.51 million hectares per year.\n\nThe organization's profile refers to the 2008 Audit Board of Indonesia (BPK RI) report on the 2003-2007 National Movement for Forest and Land Rehabilitation (GNRHL). In West Java, the recorded physical rehabilitation covered 200,005 hectares against a target of 580,397 hectares, with reported state losses of Rp3,635,517,900. In East Java, the reported result was 69,283 hectares against a target of 365,080 hectares, or 18.98%, with reported state losses of Rp12,408,517,475.\n\nAgainst this historical backdrop, GAHARU emerged as a non-governmental movement advancing forest and environmental conservation through measurable, objective, and transparent outcomes and a firm, independent, and integrity-led approach.\n\nThe deforestation, rehabilitation, and state-loss figures above are historical figures cited in the organization's profile, not a description of current conditions."
+      },
+      "visionTitle": { "id": "Visi kami", "en": "Our vision" },
+      "vision": {
+        "id": "Menegakkan Pilar Kejujuran dan Kebenaran dalam menciptakan sistem pengelolaan hutan dan lingkungan sebagai sebuah ekosistem, yang menjamin pemenuhan kebutuhan hidup manusia akan barang dan jasa secara adil, transparan, akuntabel, taat hukum, optimal, dan berkelanjutan dalam perspektif sosial, ekonomi, budaya, dan ekologi.",
+        "en": "To uphold the pillars of honesty and truth in building a forest and environmental management system that treats nature as an ecosystem and ensures people's needs for goods and services are met fairly, transparently, accountably, lawfully, effectively, and sustainably across social, economic, cultural, and ecological dimensions."
+      },
+      "missionTitle": { "id": "Misi kami", "en": "Our mission" },
+      "mission": {
+        "id": "Misi utama GAHARU diwujudkan melalui tujuh arah kerja berikut:",
+        "en": "GAHARU pursues its mission through seven areas of work:"
+      },
+      "missionItems": {
+        "id": [
+          "Merestorasi dan melestarikan hutan serta Daerah Tangkapan Air (DTA) dan Daerah Aliran Sungai (DAS) secara optimal dan berkelanjutan.",
+          "Menerapkan dan mempromosikan praktik konservasi hutan dan lingkungan yang berbasis ilmu pengetahuan, teknologi, dan kearifan lokal.",
+          "Melestarikan dan meningkatkan mutu lingkungan pesisir serta ekosistem laut dan/atau danau secara optimal dan berkelanjutan.",
+          "Menerapkan dan mengembangkan energi baru dan terbarukan secara optimal dan berkelanjutan.",
+          "Membangun dan mengembangkan kegiatan ekowisata secara optimal dan berkelanjutan.",
+          "Memberdayakan masyarakat melalui pelatihan dan penyadaran lingkungan secara optimal dan berkelanjutan.",
+          "Melakukan advokasi untuk memengaruhi dan mendorong kebijakan negara yang adil dan demokratis dalam tata kelola hutan dan lingkungan yang optimal dan berkelanjutan."
+        ],
+        "en": [
+          "Restore and conserve forests, water catchment areas, and watersheds effectively and sustainably.",
+          "Apply and promote forest and environmental conservation practices grounded in science, technology, and local knowledge.",
+          "Conserve and improve the quality of coastal environments and marine and/or lake ecosystems effectively and sustainably.",
+          "Apply and develop new and renewable energy effectively and sustainably.",
+          "Build and develop ecotourism activities effectively and sustainably.",
+          "Empower communities through training and environmental awareness initiatives effectively and sustainably.",
+          "Advocate for fair and democratic public policy in support of effective and sustainable forest and environmental governance."
+        ]
+      },
+      "governanceTitle": { "id": "Kejujuran dan akuntabilitas dalam kerja.", "en": "Honesty and accountability in practice." },
+      "governance": {
+        "id": "Seluruh arah kerja GAHARU bertumpu pada prinsip capaian terukur, obyektif, transparan, independen, dan berintegritas. Kami mendorong pengelolaan sumber daya alam yang adil, akuntabel, taat hukum, dan berkelanjutan.",
+        "en": "Every area of GAHARU's work is grounded in measurable outcomes and an objective, transparent, independent, and integrity-led approach. We promote natural resource management that is fair, accountable, lawful, and sustainable."
+      },
+      "team": [],
+      "documents": []
+    },
+    "programPage": {
+      "eyebrow": { "id": "KERJA DI LAPANGAN", "en": "OUR WORK ON THE GROUND" },
+      "title": { "id": "Dari pemulihan ekosistem hingga desa yang berdaya.", "en": "From ecosystem restoration to resilient communities." },
+      "body": {
+        "id": "Sembilan rumpun program GAHARU meliputi rehabilitasi hutan dan lahan, perhutanan sosial, restorasi gambut dan mangrove, lebah madu, edukasi lingkungan, energi terbarukan, ekowisata, pengelolaan sampah, dan Eco Village berbasis agroforestri. Studi kasus rehabilitasi mangrove Muna Barat disajikan terpisah sebagai program terdokumentasi.",
+        "en": "GAHARU's nine areas of work cover forest and land rehabilitation, social forestry, peatland and mangrove restoration, honey bees, environmental learning, renewable energy, ecotourism, waste management, and agroforestry-based Eco Villages. The documented West Muna mangrove case study is presented separately."
+      },
+      "image": {
+        "url": "https://images.pexels.com/photos/31996016/pexels-photo-31996016.jpeg?auto=compress&cs=tinysrgb",
+        "alt": { "id": "Mangrove di lahan basah Indonesia", "en": "Mangroves in an Indonesian wetland" },
+        "credit": "one second before sunset / Pexels (foto ilustrasi)",
+        "creditUrl": "https://www.pexels.com/photo/scenic-mangrove-trees-in-indonesian-wetlands-31996016/"
+      }
+    },
+    "publicationsPage": {
+      "eyebrow": { "id": "PUBLIKASI", "en": "PUBLICATIONS" },
+      "title": { "id": "Cerita, data, pengetahuan, dan opini dari lapangan.", "en": "Stories, field knowledge, and opinions." },
+      "body": {
+        "id": "Temukan artikel edukasi, catatan riset, kabar program, serta opini penulis tentang isu hutan dan lingkungan. Opini ditampilkan sebagai pandangan penulis, bukan temuan atau keputusan hukum redaksi.",
+        "en": "Explore educational articles, research notes, program updates, and author opinions on forest and environmental issues. Opinion pieces represent their authors' views, not editorial findings or legal decisions."
+      }
+    },
+    "mapPage": {
+      "eyebrow": { "id": "WILAYAH KERJA", "en": "WHERE WE WORK" },
+      "title": { "id": "Cakupan nasional, berangkat dari aksi nyata di daerah.", "en": "Nationwide reach, grounded in local action." },
+      "body": {
+        "id": "Wilayah kerja GAHARU mencakup seluruh Indonesia / nasional. Peta berikut menampilkan satu contoh program terdokumentasi di empat desa Kabupaten Muna Barat, Sulawesi Tenggara.",
+        "en": "GAHARU's work covers all of Indonesia on a nationwide basis. The map below shows one documented program across four villages in West Muna, Southeast Sulawesi."
+      }
+    },
+    "partnershipPage": {
+      "eyebrow": { "id": "KEMITRAAN", "en": "PARTNERSHIPS" },
+      "title": { "id": "Mari bertumbuh dalam kerja yang berarti.", "en": "Let's grow meaningful work together." },
+      "body": {
+        "id": "Kami membuka ruang kolaborasi bagi lembaga, dunia usaha, pemerintah, dan akademisi yang percaya pada aksi konservasi berbasis bukti.",
+        "en": "We welcome collaboration with organizations, businesses, government, and researchers committed to evidence-based conservation."
+      },
+      "image": {
+        "url": "https://images.pexels.com/photos/1519753/pexels-photo-1519753.jpeg?auto=compress&cs=tinysrgb",
+        "alt": { "id": "Bentang pesisir hijau Indonesia dari udara", "en": "A green Indonesian coastline from above" },
+        "credit": "Tom Fisk / Pexels (foto ilustrasi)",
+        "creditUrl": "https://www.pexels.com/photo/bird-s-eye-view-of-a-seashore-1519753/"
+      },
+      "approachTitle": { "id": "Kemitraan yang berpijak pada kebutuhan nyata.", "en": "Partnerships grounded in real needs." },
+      "approachBody": {
+        "id": "Kami percaya kolaborasi paling baik dimulai dengan mendengar. Bersama mitra, kami dapat merancang dukungan pemulihan ekosistem, pertukaran pengetahuan, dan penguatan komunitas sesuai konteks wilayah.",
+        "en": "We believe the best collaborations begin with listening. Together with partners, we can shape ecosystem restoration, knowledge exchange, and community support around local realities."
+      },
+      "partnerTypesTitle": {
+        "id": "Ruang kolaborasi yang terbuka",
+        "en": "Opportunities to work together"
+      },
+      "partnerTypesIntro": {
+        "id": "Kemitraan dapat dijajaki bersama lembaga yang memiliki kepedulian dan tujuan sejalan. Daftar berikut menunjukkan kategori calon mitra, bukan pernyataan bahwa seluruh lembaga ini sudah menjadi mitra aktif.",
+        "en": "We welcome conversations with organizations that share our commitment and goals. These are categories of potential partners, not a claim that each listed institution is already an active partner."
+      },
+      "partnerTypes": [
+        { "id": "Lembaga donor", "en": "Donor organizations" },
+        { "id": "Kementerian Kehutanan", "en": "Ministry of Forestry" },
+        { "id": "Kementerian Pariwisata", "en": "Ministry of Tourism" },
+        { "id": "Program CSR lembaga swasta", "en": "Private-sector CSR programs" },
+        { "id": "Perguruan tinggi", "en": "Universities and higher education institutions" },
+        { "id": "Badan Restorasi Gambut dan Mangrove (BRGM)", "en": "Peatland and Mangrove Restoration Agency (BRGM)" }
+      ]
+    },
+    "contactPage": {
+      "eyebrow": { "id": "HUBUNGI KAMI", "en": "CONTACT US" },
+      "title": { "id": "Percakapan baik bisa memulai perubahan.", "en": "A good conversation can start change." },
+      "body": {
+        "id": "Punya ide kolaborasi, pertanyaan tentang program, atau ingin mengenal GAHARU lebih dekat? Tinggalkan pesan untuk kami.",
+        "en": "Have a partnership idea, a question about our programs, or want to know GAHARU better? Send us a message."
+      }
+    },
+    "office": {
+      "address": {
+        "id": "Jalan Galampano, Lorong TK. Pertiwi, Kelurahan Raha 1, Kecamatan Katobu, Raha, Kabupaten Muna, Sulawesi Tenggara, Indonesia",
+        "en": "Jalan Galampano, Lorong TK. Pertiwi, Raha 1 Urban Village, Katobu District, Raha, Muna Regency, Southeast Sulawesi, Indonesia"
+      },
+      "region": { "id": "Sulawesi Tenggara, Indonesia", "en": "Southeast Sulawesi, Indonesia" },
+      "contactPerson": "La Ode Muhammad Rabiali",
+      "phone": "0821 7798 8749",
+      "email": "laode.mrabiali@gmail.com"
+    },
+    "seo": {
+      "home": {
+        "title": { "id": "GAHARU | Gerakan Konservasi Hutan dan Lingkungan", "en": "GAHARU | Forest and Environmental Conservation" },
+        "description": { "id": "GAHARU adalah organisasi konservasi berbasis di Raha, Muna. Kenali program mangrove Muna Barat, energi biogas, riset, dan kerja kami sejak 2011.", "en": "GAHARU is a conservation organization based in Muna, Indonesia. Explore our mangrove restoration, biogas, research, and work since 2011." }
+      },
+      "about": {
+        "title": { "id": "Tentang Kami | GAHARU", "en": "About Us | GAHARU" },
+        "description": { "id": "Kenali sejarah berdirinya GAHARU pada 20 Mei 2011, visi, tujuh misi konservasi, serta kontak lembaga di Raha, Kabupaten Muna.", "en": "Learn about GAHARU's founding on 20 May 2011, its vision, seven conservation missions, and contact details in Raha, Muna Regency." }
+      },
+      "programs": {
+        "title": { "id": "Program Konservasi | GAHARU", "en": "Conservation Programs | GAHARU" },
+        "description": { "id": "Jelajahi sembilan rumpun kerja GAHARU: rehabilitasi hutan, perhutanan sosial, gambut dan mangrove, lebah madu, edukasi, energi terbarukan, ekowisata, sampah, dan Eco Village agroforestri.", "en": "Explore GAHARU's nine areas of work in forest rehabilitation, social forestry, peatlands and mangroves, honey bees, environmental learning, renewable energy, ecotourism, waste, and agroforestry Eco Villages." }
+      },
+      "publications": {
+        "title": { "id": "Publikasi dan Artikel | GAHARU", "en": "Publications and Articles | GAHARU" },
+        "description": { "id": "Baca artikel edukasi, riset, kabar program, dan opini tentang hutan, mangrove, sampah, serta konservasi pesisir.", "en": "Read education, research, program news, and opinion on forests, mangroves, waste, and coastal conservation." }
+      },
+      "map": {
+        "title": { "id": "Wilayah Kerja | GAHARU", "en": "Where We Work | GAHARU" },
+        "description": { "id": "Cakupan kerja GAHARU bersifat nasional. Lihat contoh studi kasus rehabilitasi mangrove di empat desa Kabupaten Muna Barat, Sulawesi Tenggara.", "en": "GAHARU works nationwide. Explore one documented mangrove rehabilitation case study across four villages in West Muna, Southeast Sulawesi." }
+      },
+      "partnership": {
+        "title": { "id": "Kemitraan | GAHARU", "en": "Partnerships | GAHARU" },
+        "description": { "id": "Berkolaborasi dengan GAHARU dalam kerja konservasi hutan dan pesisir berbasis bukti dan kebutuhan masyarakat.", "en": "Partner with GAHARU on evidence-based forest and coastal conservation grounded in community needs." }
+      },
+      "contact": {
+        "title": { "id": "Kontak | GAHARU", "en": "Contact | GAHARU" },
+        "description": { "id": "Hubungi GAHARU yang berbasis di Raha, Kabupaten Muna, Sulawesi Tenggara untuk pertanyaan dan kolaborasi.", "en": "Contact GAHARU in Raha, Muna Regency, Southeast Sulawesi for questions and collaboration." }
+      }
+    }
+  },
+  "programs": [
+    {
+      "slug": "rehabilitasi-mangrove-muna-barat",
+      "order": 4,
+      "featured": true,
+      "category": { "id": "RESTORASI PESISIR", "en": "COASTAL RESTORATION" },
+      "title": { "id": "Rehabilitasi Mangrove Muna Barat", "en": "West Muna Mangrove Rehabilitation" },
+      "summary": { "id": "Memulihkan 45 hektar kawasan mangrove bersama masyarakat di empat desa pesisir Muna Barat.", "en": "Restoring 45 hectares of mangroves with communities across four coastal villages in West Muna." },
+      "body": {
+        "id": "Di pesisir Kabupaten Muna Barat, mangrove adalah bagian penting dari kehidupan. Melalui kerja pengawasan dan penilaian (WASLAI) bersama BPDASHL Sampara, GAHARU mendampingi rehabilitasi mangrove seluas 45 hektar yang terbagi dalam tiga petak: 25 hektar, 15 hektar, dan 5 hektar.\n\nLebih dari 147.000 bibit Rhizophora sp. dan Bruguiera sp. ditanam, dari target perencanaan 148.500 bibit dengan acuan kepadatan 3.300 batang per hektar. Kegiatan berlangsung di Desa Lahaji, Umba, Lemoambo, dan Kasakamu, pada wilayah Kecamatan Napano Kusambi dan Kusambi.\n\nPenilaian awal pada 2020 menunjukkan persen tumbuh 82,85%, melampaui standar minimal 75%. Laporan pemeliharaan tahun pertama pada 2021 mencatat rentang persen tumbuh 88,5-91,3% di setiap petak. Data ini menjadi dasar untuk terus belajar, mengevaluasi, dan merawat hasil penanaman.\n\nSumber data: Laporan WASLAI Rehabilitasi Mangrove Muna Barat (2020) dan Laporan Pemeliharaan Tahun ke-1/P1 (2021).",
+        "en": "Along the coast of West Muna, mangroves are an essential part of life. Through monitoring and assessment (WASLAI) with BPDASHL Sampara, GAHARU supported the rehabilitation of 45 hectares across three plots of 25, 15, and 5 hectares.\n\nMore than 147,000 Rhizophora sp. and Bruguiera sp. seedlings were planted, against a planning target of 148,500 and a reference density of 3,300 stems per hectare. The work spans Lahaji, Umba, Lemoambo, and Kasakamu villages in the Napano Kusambi and Kusambi subdistricts.\n\nThe initial 2020 assessment recorded 82.85% plant survival, above the 75% minimum standard. The 2021 first-year maintenance report recorded a range of 88.5-91.3% across plots. These findings guide continued learning, evaluation, and care.\n\nData sources: West Muna Mangrove Rehabilitation WASLAI Report (2020) and First-Year Maintenance/P1 Report (2021)."
+      },
+      "cover": {
+        "url": "https://images.pexels.com/photos/33651991/pexels-photo-33651991.jpeg?auto=compress&cs=tinysrgb",
+        "alt": { "id": "Seseorang menanam bibit mangrove di lahan berlumpur", "en": "A person planting mangrove seedlings in muddy ground" },
+        "credit": "Mike Mijares / Pexels (foto ilustrasi)",
+        "creditUrl": "https://www.pexels.com/photo/woman-planting-mangrove-saplings-outdoors-33651991/"
+      },
+      "gallery": [
+        {
+          "url": "https://images.pexels.com/photos/32281031/pexels-photo-32281031.jpeg?auto=compress&cs=tinysrgb",
+          "alt": { "id": "Mangrove tumbuh di perairan pesisir", "en": "Mangroves growing in coastal waters" },
+          "credit": "Cak Pan / Pexels (foto ilustrasi)",
+          "creditUrl": "https://www.pexels.com/photo/stunning-mangrove-trees-in-nusa-tenggara-indonesia-32281031/"
+        },
+        {
+          "url": "https://images.pexels.com/photos/30004134/pexels-photo-30004134.jpeg?auto=compress&cs=tinysrgb",
+          "alt": { "id": "Akar mangrove terlihat saat air surut", "en": "Mangrove roots visible at low tide" },
+          "credit": "Ihsan Adityawarman / Pexels (foto ilustrasi)",
+          "creditUrl": "https://www.pexels.com/photo/serene-mangrove-landscape-at-tanjong-sepat-30004134/"
+        }
+      ],
+      "galleryVideos": [],
+      "location": { "id": "Kabupaten Muna Barat, Sulawesi Tenggara", "en": "West Muna Regency, Southeast Sulawesi" },
+      "period": { "id": "Pemantauan 2020-2021", "en": "Monitoring 2020-2021" },
+      "partner": { "id": "BPDASHL Sampara (Kementerian LHK RI)", "en": "BPDASHL Sampara (Indonesian Ministry of Environment and Forestry)" },
+      "status": { "id": "Studi kasus terdokumentasi", "en": "Documented case study" },
+      "growthData": {
+        "title": { "id": "Apa yang dikatakan data?", "en": "What does the data tell us?" },
+        "intro": {
+          "id": "Dari penilaian awal hingga pemeliharaan tahun pertama, pemantauan membantu kami memahami kondisi tanaman secara lebih jernih.",
+          "en": "From the initial assessment to first-year maintenance, monitoring helps us understand plant conditions more clearly."
+        },
+        "initial": 82.85,
+        "followupMin": 88.5,
+        "followupMax": 91.3,
+        "standard": 75,
+        "source": { "id": "Sumber: Laporan WASLAI (2020) dan Laporan Pemeliharaan P1 (2021).", "en": "Sources: WASLAI Report (2020) and First-Year Maintenance/P1 Report (2021)." },
+        "note": {
+          "id": "Angka 2021 adalah rentang antarpetak, bukan satu rata-rata. Baca bersama laporan sumber untuk konteks metode penilaian.",
+          "en": "The 2021 figures are a range across plots, not one average. Read alongside the source reports for assessment-method context."
+        }
+      },
+      "metrics": [
+        { "value": { "id": "45 ha", "en": "45 ha" }, "label": { "id": "luas rehabilitasi", "en": "rehabilitated area" } },
+        { "value": { "id": "147.000+", "en": "147,000+" }, "label": { "id": "bibit ditanam", "en": "seedlings planted" } },
+        { "value": { "id": "4 desa", "en": "4 villages" }, "label": { "id": "wilayah kegiatan", "en": "villages reached" } }
+      ]
+    },
+    {
+      "slug": "energi-biogas",
+      "order": 7,
+      "featured": true,
+      "category": { "id": "ENERGI BERKELANJUTAN", "en": "SUSTAINABLE ENERGY" },
+      "title": { "id": "Pengembangan Biogas dan Energi Baru Terbarukan", "en": "Biogas and Renewable Energy Development" },
+      "summary": { "id": "Mengembangkan pilihan biogas dan energi terbarukan lain yang sesuai dengan potensi lokal.", "en": "Exploring biogas and other renewable energy options suited to local conditions." },
+      "body": {
+        "id": "Konservasi lingkungan juga berkaitan dengan pilihan energi sehari-hari. Rumpun program ini mencakup pengembangan biogas dan penjajakan energi baru terbarukan lain yang dapat menjawab kebutuhan serta potensi sumber daya setempat.\n\nPemilihan teknologi perlu mempertimbangkan ketersediaan bahan baku, keselamatan, biaya, kemampuan perawatan, dan manfaat bagi masyarakat. Lokasi proyek, mitra, kapasitas instalasi, dan data capaian belum ditambahkan karena belum tersedia untuk diverifikasi.",
+        "en": "Environmental conservation is also connected to everyday energy choices. This area of work covers biogas development and exploring other renewable energy options that respond to local needs and resources.\n\nTechnology choices should consider available feedstock, safety, costs, maintenance capacity, and community benefits. Project locations, partners, installation capacity, and outcome data are not listed because verified details have not yet been provided."
+      },
+      "cover": {
+        "url": "https://images.pexels.com/photos/20344373/pexels-photo-20344373.jpeg?auto=compress&cs=tinysrgb",
+        "alt": { "id": "Ilustrasi peternakan desa dan instalasi biogas", "en": "Illustrative image of village livestock and a biogas installation" },
+        "credit": "EqualStock IN / Pexels (foto ilustrasi)",
+        "creditUrl": "https://www.pexels.com/photo/farmer-in-indian-village-20344373/"
+      },
+      "gallery": [],
+      "location": { "id": "Rincian lokasi kegiatan belum dipublikasikan", "en": "Project locations have not been published" },
+      "period": { "id": "Rumpun program; periode proyek belum dipublikasikan", "en": "Program area; project dates have not been published" },
+      "partner": { "id": "Rincian mitra kegiatan belum dipublikasikan", "en": "Project partner details have not been published" },
+      "status": { "id": "Rumpun program; capaian proyek menunggu verifikasi", "en": "Program area; project outcomes pending verification" },
+      "metrics": []
+    },
+    {
+      "slug": "kemitraan-riset",
+      "order": 11,
+      "featured": false,
+      "category": { "id": "RISET & PENGETAHUAN", "en": "RESEARCH & KNOWLEDGE" },
+      "title": { "id": "Kemitraan Riset", "en": "Research Partnerships" },
+      "summary": { "id": "Menghubungkan kerja lapangan dengan pengetahuan dari IPB dan perguruan tinggi lokal.", "en": "Connecting fieldwork with knowledge from IPB University and local higher education institutions." },
+      "body": {
+        "id": "Konservasi yang kuat membutuhkan dasar pengetahuan yang baik. GAHARU membangun kemitraan riset dengan IPB dan perguruan tinggi lokal untuk mempertemukan perspektif ilmiah dengan pengalaman masyarakat dan kebutuhan wilayah.\n\nPublikasi, topik riset, dan hasil kolaborasi spesifik akan ditampilkan ketika materi yang telah disetujui untuk publikasi tersedia.",
+        "en": "Effective conservation needs a sound knowledge base. GAHARU builds research partnerships with IPB University and local higher education institutions to connect scientific perspectives with community experience and local needs.\n\nSpecific publications, research topics, and collaboration outcomes will be shared when approved materials are available."
+      },
+      "cover": {
+        "url": "https://images.pexels.com/photos/12858155/pexels-photo-12858155.jpeg?auto=compress&cs=tinysrgb",
+        "alt": { "id": "Peneliti mencatat pengamatan tanaman di lapangan", "en": "A researcher recording plant observations in the field" },
+        "credit": "Duong Nhan / Pexels (foto ilustrasi)",
+        "creditUrl": "https://www.pexels.com/photo/man-writing-about-plants-in-notebook-12858155/"
+      },
+      "gallery": [],
+      "location": { "id": "Sulawesi Tenggara dan jejaring mitra", "en": "Southeast Sulawesi and partner networks" },
+      "period": { "id": "Kemitraan berkelanjutan", "en": "Ongoing partnerships" },
+      "partner": { "id": "IPB dan perguruan tinggi lokal", "en": "IPB University and local universities" },
+      "status": { "id": "Profil ringkas", "en": "Brief profile" },
+      "metrics": []
+    },
+    {
+      "slug": "advokasi-pesisir",
+      "order": 12,
+      "featured": false,
+      "category": { "id": "ADVOKASI LINGKUNGAN", "en": "ENVIRONMENTAL ADVOCACY" },
+      "title": { "id": "Advokasi Lingkungan Pesisir", "en": "Coastal Environmental Advocacy" },
+      "summary": { "id": "Menyuarakan pentingnya pesisir yang sehat bagi ekosistem dan ruang hidup masyarakat.", "en": "Speaking up for healthy coastlines and the communities whose lives depend on them." },
+      "body": {
+        "id": "Pesisir adalah ruang hidup yang mempertemukan ekosistem dan masyarakat. Advokasi lingkungan pesisir menjadi bagian dari perjalanan GAHARU untuk membangun perhatian, percakapan, dan kerja bersama dalam menjaga wilayah ini.\n\nCerita kegiatan dan dokumen pendukung akan ditambahkan setelah proses kurasi arsip organisasi selesai.",
+        "en": "Coastlines are living spaces shared by ecosystems and communities. Coastal environmental advocacy is part of GAHARU's work to foster awareness, dialogue, and collective stewardship.\n\nActivity stories and supporting documents will be added after the organization's archive has been reviewed."
+      },
+      "cover": {
+        "url": "https://images.pexels.com/photos/12785141/pexels-photo-12785141.jpeg?auto=compress&cs=tinysrgb",
+        "alt": { "id": "Nelayan menjala di perairan dekat mangrove", "en": "A fisher casting a net near mangroves" },
+        "credit": "RAVI LAGES / Pexels (foto ilustrasi)",
+        "creditUrl": "https://www.pexels.com/photo/a-fisherman-casting-a-fishing-net-12785141/"
+      },
+      "gallery": [],
+      "location": { "id": "Wilayah pesisir Sulawesi Tenggara", "en": "Coastal areas of Southeast Sulawesi" },
+      "period": { "id": "Bagian dari kerja organisasi", "en": "Part of the organization's ongoing work" },
+      "partner": { "id": "Kolaborasi lintas pihak", "en": "Cross-sector collaboration" },
+      "status": { "id": "Profil ringkas", "en": "Brief profile" },
+      "metrics": []
+    },
+    {
+      "slug": "rehabilitasi-hutan-dan-lahan",
+      "order": 1,
+      "featured": false,
+      "category": { "id": "REHABILITASI EKOSISTEM", "en": "ECOSYSTEM RESTORATION" },
+      "title": { "id": "Rehabilitasi Hutan dan Lahan", "en": "Forest and Land Rehabilitation" },
+      "summary": { "id": "Memulihkan fungsi hutan dan lahan melalui pendekatan yang sesuai dengan kondisi tapak dan kebutuhan masyarakat.", "en": "Restore forest and land functions through approaches suited to local ecosystems and community needs." },
+      "body": {
+        "id": "Rumpun program ini berfokus pada pemulihan fungsi ekosistem hutan dan lahan. Arah kegiatannya dapat mencakup penilaian kondisi tapak, pemilihan jenis lokal yang sesuai, penanaman, perlindungan, pemeliharaan, dan pemantauan hasil.\n\nRancangan dan metode rehabilitasi perlu mengikuti kondisi tanah, air, tutupan lahan, serta pengetahuan masyarakat setempat. Lokasi proyek, luas kegiatan, jenis yang digunakan, mitra, dan capaian khusus akan ditambahkan setelah data kegiatan tersedia dan diverifikasi.",
+        "en": "This program area focuses on restoring forest and land ecosystem functions. Depending on the site, work may include assessing conditions, selecting suitable native species, planting, protection, maintenance, and monitoring.\n\nRehabilitation design should reflect local soil, water, land cover, and community knowledge. Project locations, areas, species, partners, and specific outcomes will be added when activity records are available and verified."
+      },
+      "cover": {
+        "url": "https://images.pexels.com/photos/33334654/pexels-photo-33334654.jpeg?auto=compress&cs=tinysrgb",
+        "alt": { "id": "Pemandangan udara lembah hijau di Sulawesi", "en": "Aerial view of a green valley in Sulawesi" },
+        "credit": "Sebastian Elkana / Pexels (foto ilustrasi)",
+        "creditUrl": "https://www.pexels.com/photo/aerial-view-of-lush-valley-in-sulawesi-utara-33334654/"
+      },
+      "gallery": [],
+      "location": { "id": "Lokasi kegiatan belum dipublikasikan", "en": "Project locations have not been published" },
+      "period": { "id": "Periode proyek belum dipublikasikan", "en": "Project dates have not been published" },
+      "partner": { "id": "Mitra kegiatan belum dipublikasikan", "en": "Project partners have not been published" },
+      "status": { "id": "Rumpun program; rincian proyek menunggu verifikasi", "en": "Program area; project details pending verification" },
+      "metrics": []
+    },
+    {
+      "slug": "perhutanan-sosial-dan-hutan-adat",
+      "order": 2,
+      "featured": true,
+      "category": { "id": "TATA KELOLA HUTAN BERBASIS MASYARAKAT", "en": "COMMUNITY-BASED FOREST GOVERNANCE" },
+      "title": { "id": "Perhutanan Sosial dan Pengelolaan Hutan Adat", "en": "Social Forestry and Customary Forest Management" },
+      "summary": { "id": "Mendorong tata kelola hutan yang menempatkan masyarakat dan kearifan lokal sebagai bagian penting pengelolaan.", "en": "Support forest governance that recognizes communities and local knowledge as essential to stewardship." },
+      "body": {
+        "id": "Rumpun program ini mencakup perhutanan sosial dan pengelolaan hutan adat. Arah kerja dapat meliputi penguatan pengetahuan tata kelola, perencanaan pengelolaan bersama masyarakat, serta upaya menjaga fungsi hutan dan keberlanjutan pemanfaatannya.\n\nPendekatan harus menghormati hak, aturan, kelembagaan, dan kearifan masyarakat setempat. Wilayah kelola, kelompok, status pengakuan, mitra, serta capaian program akan dipublikasikan setelah dikonfirmasi melalui data dan dokumentasi yang berwenang.",
+        "en": "This program area covers social forestry and customary forest management. Possible areas of work include strengthening governance knowledge, community-led management planning, and maintaining forest functions alongside sustainable use.\n\nThe approach should respect local rights, rules, institutions, and knowledge. Management areas, groups, recognition status, partners, and outcomes will be published after confirmation through authoritative records and documentation."
+      },
+      "cover": {
+        "url": "https://images.pexels.com/photos/33562776/pexels-photo-33562776.jpeg?auto=compress&cs=tinysrgb",
+        "alt": { "id": "Permukiman kecil di tengah lembah hijau", "en": "A small settlement in a green valley" },
+        "credit": "Man Fong Wong / Pexels (foto ilustrasi)",
+        "creditUrl": "https://www.pexels.com/photo/lush-green-tropical-valley-landscape-view-33562776/"
+      },
+      "gallery": [],
+      "location": { "id": "Lokasi kegiatan belum dipublikasikan", "en": "Project locations have not been published" },
+      "period": { "id": "Periode proyek belum dipublikasikan", "en": "Project dates have not been published" },
+      "partner": { "id": "Mitra dan kelompok pengelola dikonfirmasi per kegiatan", "en": "Partners and forest groups are confirmed for each activity" },
+      "status": { "id": "Rumpun program; wilayah dan capaian belum dipublikasikan", "en": "Program area; locations and outcomes not yet published" },
+      "metrics": []
+    },
+    {
+      "slug": "restorasi-gambut-dan-mangrove",
+      "order": 3,
+      "featured": false,
+      "category": { "id": "RESTORASI LAHAN BASAH", "en": "WETLAND RESTORATION" },
+      "title": { "id": "Restorasi Gambut dan Mangrove", "en": "Peatland and Mangrove Restoration" },
+      "summary": { "id": "Mendukung pemulihan ekosistem lahan basah dan pesisir dengan memperhatikan kondisi air, tapak, dan masyarakat.", "en": "Support wetland and coastal ecosystem recovery with attention to hydrology, site conditions, and communities." },
+      "body": {
+        "id": "Restorasi gambut dan mangrove memerlukan pendekatan yang sesuai dengan karakter masing-masing ekosistem. Rumpun kerja ini mengarahkan perhatian pada kondisi hidrologi, vegetasi lokal, perlindungan habitat, pemeliharaan, dan pemantauan, bersama masyarakat serta pemangku kepentingan.\n\nStudi kasus mangrove Muna Barat yang telah didokumentasikan dapat dibaca pada halaman program tersendiri. Informasi proyek restorasi gambut dan kegiatan lain akan ditambahkan setelah lokasi, periode, mitra, serta data lapangan tersedia dan diverifikasi.",
+        "en": "Peatland and mangrove restoration require approaches suited to the distinct characteristics of each ecosystem. This area of work focuses on hydrology, native vegetation, habitat protection, maintenance, and monitoring alongside communities and relevant stakeholders.\n\nThe documented West Muna mangrove case study is available on its own program page. Details of peatland restoration projects and other activities will be added when locations, dates, partners, and field data are available and verified."
+      },
+      "cover": {
+        "url": "https://images.pexels.com/photos/4706613/pexels-photo-4706613.jpeg?auto=compress&cs=tinysrgb",
+        "alt": { "id": "Pemandangan udara lahan basah dan hutan di Banten", "en": "Aerial view of wetlands and forest in Banten" },
+        "credit": "Tom Fisk / Pexels (foto ilustrasi)",
+        "creditUrl": "https://www.pexels.com/photo/aerial-view-of-a-wetland-at-daytime-4706613/"
+      },
+      "gallery": [],
+      "location": { "id": "Lokasi kegiatan belum dipublikasikan", "en": "Project locations have not been published" },
+      "period": { "id": "Periode proyek belum dipublikasikan", "en": "Project dates have not been published" },
+      "partner": { "id": "Mitra kegiatan belum dipublikasikan", "en": "Project partners have not been published" },
+      "status": { "id": "Rumpun program; studi kasus mangrove tersedia terpisah", "en": "Program area; mangrove case study available separately" },
+      "metrics": []
+    },
+    {
+      "slug": "budidaya-lebah-madu",
+      "order": 5,
+      "featured": false,
+      "category": { "id": "HASIL HUTAN BUKAN KAYU", "en": "NON-TIMBER FOREST PRODUCTS" },
+      "title": { "id": "Budidaya Lebah Madu", "en": "Honey Bee Cultivation" },
+      "summary": { "id": "Mengenalkan budidaya lebah madu yang selaras dengan perlindungan habitat dan sumber pakan alami.", "en": "Explore honey bee cultivation aligned with habitat protection and natural forage." },
+      "body": {
+        "id": "Budidaya lebah madu dapat menjadi pintu masuk untuk membahas hubungan antara keanekaragaman tumbuhan, habitat, penyerbukan, dan penghidupan masyarakat. Rumpun program ini dapat mencakup pengenalan praktik budidaya, perlindungan sumber pakan, serta penanganan hasil secara bertanggung jawab.\n\nJenis lebah, metode, kelompok sasaran, lokasi, dan capaian kegiatan belum dirinci. Informasi tersebut akan dilengkapi setelah rencana atau dokumentasi program dikonfirmasi bersama pengelola.",
+        "en": "Honey bee cultivation can help connect discussions of plant diversity, habitat, pollination, and community livelihoods. This program area may include cultivation practices, protection of natural forage, and responsible handling of honey.\n\nBee species, methods, participating groups, locations, and outcomes have not yet been specified. These details will be added after program plans or documentation are confirmed with the organizers."
+      },
+      "cover": {
+        "url": "https://images.pexels.com/photos/18925406/pexels-photo-18925406.jpeg?auto=compress&cs=tinysrgb",
+        "alt": { "id": "Dua peternak lebah memeriksa sarang di lingkungan hutan", "en": "Two beekeepers tending a hive in a forest setting" },
+        "credit": "Kawe Rodrigues / Pexels (foto ilustrasi)",
+        "creditUrl": "https://www.pexels.com/photo/beekeepers-working-in-forest-18925406/"
+      },
+      "gallery": [],
+      "location": { "id": "Lokasi kegiatan belum dipublikasikan", "en": "Project locations have not been published" },
+      "period": { "id": "Periode proyek belum dipublikasikan", "en": "Project dates have not been published" },
+      "partner": { "id": "Mitra kegiatan belum dipublikasikan", "en": "Project partners have not been published" },
+      "status": { "id": "Rumpun program; metode dan capaian menyusul verifikasi", "en": "Program area; methods and outcomes pending verification" },
+      "metrics": []
+    },
+    {
+      "slug": "pelatihan-dan-penyadaran-lingkungan",
+      "order": 6,
+      "featured": false,
+      "category": { "id": "PENDIDIKAN LINGKUNGAN", "en": "ENVIRONMENTAL LEARNING" },
+      "title": { "id": "Pelatihan dan Penyadaran Hutan dan Lingkungan", "en": "Forest and Environmental Training and Awareness" },
+      "summary": { "id": "Memperkuat pengetahuan dan kepedulian lingkungan melalui pembelajaran yang dekat dengan konteks lokal.", "en": "Build environmental knowledge and awareness through learning rooted in local contexts." },
+      "body": {
+        "id": "Rumpun ini mencakup pelatihan dan penyadaran mengenai hutan serta lingkungan. Materi dan metode pembelajaran dapat disesuaikan untuk kelompok masyarakat, pemuda, pendidik, dan pemangku kepentingan setempat berdasarkan kebutuhan yang telah diidentifikasi.\n\nTopik, peserta, lokasi, waktu, mitra, dan hasil pelatihan akan dipublikasikan setelah tersedia dokumentasi yang telah dikonfirmasi. Foto pada halaman ini adalah ilustrasi, bukan dokumentasi kegiatan GAHARU.",
+        "en": "This program area covers training and awareness on forests and the environment. Learning materials and methods can be adapted for community groups, young people, educators, and local stakeholders based on identified needs.\n\nTopics, participants, locations, dates, partners, and training outcomes will be published once confirmed documentation is available. The image on this page is illustrative, not documentation of a GAHARU activity."
+      },
+      "cover": {
+        "url": "/images/pendidikan-lingkungan.jpg",
+        "alt": { "id": "Peserta pelatihan lingkungan mengamati bibit pohon di persemaian", "en": "Environmental training participants observing tree seedlings at a nursery" },
+        "credit": "GAHARU (ilustrasi AI sementara, menunggu foto lampiran asli)"
+      },
+      "gallery": [],
+      "location": { "id": "Lokasi kegiatan belum dipublikasikan", "en": "Project locations have not been published" },
+      "period": { "id": "Periode proyek belum dipublikasikan", "en": "Project dates have not been published" },
+      "partner": { "id": "Mitra kegiatan belum dipublikasikan", "en": "Project partners have not been published" },
+      "status": { "id": "Rumpun program; jadwal kegiatan belum dipublikasikan", "en": "Program area; activity schedule not yet published" },
+      "metrics": []
+    },
+    {
+      "slug": "ekowisata-berkelanjutan",
+      "order": 8,
+      "featured": false,
+      "category": { "id": "PARIWISATA BERKELANJUTAN", "en": "SUSTAINABLE TOURISM" },
+      "title": { "id": "Ekowisata Berbasis Konservasi", "en": "Conservation-Based Ecotourism" },
+      "summary": { "id": "Menjajaki kegiatan ekowisata yang menghargai kelestarian alam, pengetahuan lokal, dan manfaat bagi masyarakat.", "en": "Explore ecotourism that respects nature, local knowledge, and community benefits." },
+      "body": {
+        "id": "Ekowisata dapat menghubungkan pembelajaran lingkungan dengan pengalaman mengenal bentang alam setempat. Rumpun program ini menempatkan perlindungan ekosistem, keterlibatan masyarakat, keselamatan pengunjung, dan daya dukung kawasan sebagai pertimbangan penting dalam perencanaan.\n\nDestinasi, produk wisata, kelompok pengelola, mitra, dan manfaat ekonomi belum dicantumkan karena rincian kegiatan perlu dikonfirmasi terlebih dahulu.",
+        "en": "Ecotourism can connect environmental learning with experiences of local landscapes. This program area considers ecosystem protection, community involvement, visitor safety, and the carrying capacity of an area as important planning factors.\n\nDestinations, tourism products, community operators, partners, and economic benefits are not listed because project details still need confirmation."
+      },
+      "cover": {
+        "url": "https://images.pexels.com/photos/37812017/pexels-photo-37812017.jpeg?auto=compress&cs=tinysrgb",
+        "alt": { "id": "Jembatan bambu melintasi kawasan hutan hijau", "en": "A bamboo bridge through a green forest" },
+        "credit": "Bezalens JGP / Pexels (foto ilustrasi)",
+        "creditUrl": "https://www.pexels.com/photo/traditional-bamboo-bridge-in-banten-indonesia-37812017/"
+      },
+      "gallery": [],
+      "location": { "id": "Lokasi kegiatan belum dipublikasikan", "en": "Project locations have not been published" },
+      "period": { "id": "Periode proyek belum dipublikasikan", "en": "Project dates have not been published" },
+      "partner": { "id": "Mitra kegiatan belum dipublikasikan", "en": "Project partners have not been published" },
+      "status": { "id": "Rumpun program; destinasi dan produk belum dirinci", "en": "Program area; destinations and products not yet specified" },
+      "metrics": []
+    },
+    {
+      "slug": "pengelolaan-sampah",
+      "order": 9,
+      "featured": false,
+      "category": { "id": "LINGKUNGAN & SAMPAH", "en": "WASTE AND ENVIRONMENT" },
+      "title": { "id": "Pengelolaan Sampah", "en": "Waste Management" },
+      "summary": { "id": "Mendorong pengelolaan sampah yang lebih bertanggung jawab melalui pengurangan, pemilahan, dan kolaborasi lokal.", "en": "Encourage more responsible waste practices through reduction, sorting, and local collaboration." },
+      "body": {
+        "id": "Pengelolaan sampah merupakan bagian penting dari lingkungan yang sehat. Arah program dapat mencakup pemahaman kondisi sampah setempat, pengurangan dari sumber, pemilahan, pemanfaatan kembali, dan edukasi tentang penanganan yang aman.\n\nBentuk kegiatan, lokasi, mitra, fasilitas, dan capaian pengurangan sampah akan ditampilkan setelah tersedia data dasar dan dokumentasi yang telah diverifikasi.",
+        "en": "Waste management is an important part of a healthy environment. Possible areas of work include understanding local waste conditions, reducing waste at source, sorting, reuse, and education on safe handling.\n\nActivities, locations, partners, facilities, and waste-reduction outcomes will be presented when baseline data and verified documentation are available."
+      },
+      "cover": {
+        "url": "https://images.pexels.com/photos/34251300/pexels-photo-34251300.jpeg?auto=compress&cs=tinysrgb",
+        "alt": { "id": "Petugas kebersihan menyapu trotoar kota", "en": "A sanitation worker sweeping a city sidewalk" },
+        "credit": "Hartono Subagio / Pexels (foto ilustrasi)",
+        "creditUrl": "https://www.pexels.com/photo/street-sweeper-cleaning-city-sidewalk-with-cart-34251300/"
+      },
+      "gallery": [],
+      "location": { "id": "Lokasi kegiatan belum dipublikasikan", "en": "Project locations have not been published" },
+      "period": { "id": "Periode proyek belum dipublikasikan", "en": "Project dates have not been published" },
+      "partner": { "id": "Mitra kegiatan belum dipublikasikan", "en": "Project partners have not been published" },
+      "status": { "id": "Rumpun program; data kegiatan belum dipublikasikan", "en": "Program area; activity data not yet published" },
+      "metrics": []
+    },
+    {
+      "slug": "eco-village-agroforestri-dan-karbon",
+      "order": 10,
+      "featured": false,
+      "category": { "id": "IKLIM & AGROFORESTRI", "en": "CLIMATE AND AGROFORESTRY" },
+      "title": { "id": "Eco Village Berbasis Agroforestri dan Cadangan Karbon", "en": "Agroforestry Eco Villages and Carbon Stores" },
+      "summary": { "id": "Mengembangkan gagasan Eco Village yang memadukan pohon, pertanian, dan kehidupan masyarakat dengan prinsip keberlanjutan.", "en": "Develop an Eco Village approach that integrates trees, farming, and community life around sustainability." },
+      "body": {
+        "id": "Rumpun program ini menghubungkan pengembangan Eco Village dengan agroforestri dan upaya meningkatkan cadangan karbon. Pengelolaan pohon dan tanaman pangan dalam bentang yang sama dapat direncanakan bersama kebutuhan warga, perlindungan tanah dan air, serta keragaman hayati.\n\nCadangan karbon tidak dinyatakan dengan angka sebelum tersedia pengukuran, metode, periode pemantauan, dan verifikasi yang memadai. Lokasi desa, jenis tanaman, mitra, serta rancangan kegiatan akan diperbarui setelah dikonfirmasi.",
+        "en": "This program area links Eco Village development with agroforestry and efforts to enhance carbon stores. Trees and food crops across a shared landscape can be planned alongside community needs, soil and water protection, and biodiversity.\n\nNo carbon figure is claimed without adequate measurement, methodology, monitoring periods, and verification. Village locations, species, partners, and activity plans will be updated once confirmed."
+      },
+      "cover": {
+        "url": "https://images.pexels.com/photos/5326235/pexels-photo-5326235.jpeg?auto=compress&cs=tinysrgb",
+        "alt": { "id": "Rumah desa dikelilingi kebun pisang dan lahan pertanian", "en": "A rural house surrounded by banana plants and farmland" },
+        "credit": "Tom Fisk / Pexels (foto ilustrasi)",
+        "creditUrl": "https://www.pexels.com/photo/brown-wooden-house-surrounded-by-banana-trees-near-farm-field-5326235/"
+      },
+      "gallery": [],
+      "location": { "id": "Lokasi Eco Village belum dipublikasikan", "en": "Eco Village locations have not been published" },
+      "period": { "id": "Periode proyek belum dipublikasikan", "en": "Project dates have not been published" },
+      "partner": { "id": "Mitra kegiatan belum dipublikasikan", "en": "Project partners have not been published" },
+      "status": { "id": "Rumpun program; data karbon belum tersedia", "en": "Program area; carbon data not yet available" },
+      "metrics": []
+    }
+  ],
+  "articles": [
+    {
+      "slug": "mengapa-mangrove-penting",
+      "category": "edukasi",
+      "publishedAt": "2026-09-18",
+      "readTime": 4,
+      "title": { "id": "Mengapa mangrove begitu penting bagi pesisir?", "en": "Why do mangroves matter so much to coastlines?" },
+      "excerpt": { "id": "Lebih dari sekadar pepohonan di tepi laut, mangrove membantu menjaga garis pantai dan kehidupan di sekitarnya.", "en": "More than trees by the sea, mangroves help protect shorelines and the life around them." },
+      "body": {
+        "id": "Mangrove tumbuh di pertemuan darat dan laut. Akar-akarnya membantu menahan sedimen dan meredam energi gelombang, sementara kawasan di sekitarnya menjadi ruang hidup bagi berbagai biota pesisir.\n\n## Menjaga lebih dari garis pantai\n\nBagi masyarakat pesisir, mangrove juga terkait dengan keberlanjutan sumber penghidupan. Karena itu, menjaga mangrove bukan sekadar menanam bibit. Kita perlu memperhatikan kesesuaian lokasi, kondisi pasang surut, pemeliharaan, dan keterlibatan warga.\n\nDi Muna Barat, GAHARU terlibat dalam pengawasan dan penilaian rehabilitasi mangrove. Pelajaran pentingnya sederhana: penanaman harus diikuti pemantauan yang jujur agar kita tahu apa yang tumbuh dan apa yang perlu diperbaiki.",
+        "en": "Mangroves grow where land meets sea. Their roots help hold sediment and reduce wave energy, while the surrounding habitat supports a variety of coastal species.\n\n## Protecting more than a shoreline\n\nFor coastal communities, mangroves are also tied to livelihoods. Protecting them takes more than planting seedlings. Site suitability, tides, maintenance, and community involvement all matter.\n\nIn West Muna, GAHARU has helped monitor and assess mangrove rehabilitation. The lesson is simple: planting must be followed by honest monitoring so we know what is growing and what needs to improve."
+      },
+      "cover": {
+        "url": "https://images.pexels.com/photos/35125738/pexels-photo-35125738.jpeg?auto=compress&cs=tinysrgb",
+        "alt": { "id": "Akar dan batang mangrove di tepi air", "en": "Mangrove roots and trunks at the water's edge" },
+        "credit": "Siarhei Nester / Pexels (foto ilustrasi)",
+        "creditUrl": "https://www.pexels.com/photo/dense-mangrove-forest-in-krabi-thailand-35125738/"
+      }
+    },
+    {
+      "slug": "membaca-data-mangrove-muna-barat",
+      "category": "riset",
+      "publishedAt": "2026-09-10",
+      "readTime": 5,
+      "title": { "id": "Membaca angka tumbuh mangrove Muna Barat", "en": "Understanding West Muna's mangrove survival data" },
+      "excerpt": { "id": "Dari 82,85% pada penilaian awal hingga rentang 88,5-91,3% pada pemeliharaan tahun pertama: apa artinya?", "en": "From 82.85% in the first assessment to a range of 88.5-91.3% in first-year maintenance: what do the figures mean?" },
+      "body": {
+        "id": "Data yang baik membantu kita melihat lebih jauh dari jumlah bibit yang ditanam. Dalam laporan WASLAI rehabilitasi mangrove Muna Barat tahun 2020, persen tumbuh tanaman pada penilaian awal tercatat 82,85%. Angka ini melampaui standar minimal 75%.\n\n## Membaca perubahan dengan hati-hati\n\nLaporan pemeliharaan tahun pertama pada 2021 mencatat persen tumbuh 88,5-91,3% per petak. Rentang tersebut menunjukkan hasil pengamatan di petak yang berbeda, bukan satu angka rata-rata baru. Karena metode dan unit pembanding perlu dibaca bersama laporan lengkap, kedua temuan ini tidak boleh disederhanakan menjadi kenaikan yang sama untuk setiap petak.\n\nYang jelas, pemantauan lanjutan memberi gambaran lebih utuh mengenai kondisi tanaman. Bagi GAHARU, data lapangan bukan sekadar angka komunikasi, melainkan alat untuk mengevaluasi tindakan berikutnya.\n\nSumber: Laporan WASLAI (2020) dan Laporan Pemeliharaan Tahun ke-1/P1 (2021).",
+        "en": "Good data helps us look beyond the number of seedlings planted. The 2020 WASLAI report on West Muna's mangrove rehabilitation recorded 82.85% plant survival in its initial assessment, above the 75% minimum standard.\n\n## Reading change carefully\n\nThe 2021 first-year maintenance report recorded 88.5-91.3% survival across individual plots. This is a range from different plots, not a new single average. Because methods and comparison units must be read alongside the full reports, these findings should not be simplified into the same increase for every plot.\n\nWhat is clear is that continued monitoring gives a fuller picture of plant conditions. For GAHARU, field data is not merely a communication number; it guides what to do next.\n\nSources: WASLAI Report (2020) and First-Year Maintenance/P1 Report (2021)."
+      },
+      "cover": {
+        "url": "https://images.pexels.com/photos/31996016/pexels-photo-31996016.jpeg?auto=compress&cs=tinysrgb",
+        "alt": { "id": "Deretan mangrove di lahan basah Indonesia", "en": "Mangroves in an Indonesian wetland" },
+        "credit": "one second before sunset / Pexels (foto ilustrasi)",
+        "creditUrl": "https://www.pexels.com/photo/scenic-mangrove-trees-in-indonesian-wetlands-31996016/"
+      }
+    },
+    {
+      "slug": "empat-desa-satu-pesisir",
+      "category": "kabar",
+      "publishedAt": "2026-08-27",
+      "readTime": 3,
+      "title": { "id": "Empat desa, satu bentang pesisir yang dijaga", "en": "Four villages, one coastline to care for" },
+      "excerpt": { "id": "Lahaji, Umba, Lemoambo, dan Kasakamu menjadi bagian dari cerita rehabilitasi mangrove di Muna Barat.", "en": "Lahaji, Umba, Lemoambo, and Kasakamu are part of West Muna's mangrove rehabilitation story." },
+      "body": {
+        "id": "Program rehabilitasi mangrove seluas 45 hektar di Kabupaten Muna Barat menjangkau empat desa: Lahaji, Umba, Lemoambo, dan Kasakamu. Wilayah ini berada pada dua kecamatan, Napano Kusambi dan Kusambi.\n\n## Pekerjaan yang memerlukan kebersamaan\n\nRehabilitasi ekosistem tidak berhenti pada satu hari penanaman. Pemilihan lokasi, penanaman, pemeliharaan, dan penilaian hasil membutuhkan perhatian berulang. Itulah mengapa kerja bersama masyarakat dan mitra menjadi penting.\n\nMelalui pengawasan dan penilaian bersama BPDASHL Sampara, GAHARU membantu mendokumentasikan kondisi tanaman agar langkah berikutnya berdasar pada kenyataan di lapangan.",
+        "en": "A 45-hectare mangrove rehabilitation program in West Muna Regency reaches four villages: Lahaji, Umba, Lemoambo, and Kasakamu. The area spans the Napano Kusambi and Kusambi subdistricts.\n\n## Work that takes people together\n\nEcosystem rehabilitation does not end on planting day. Site selection, planting, maintenance, and assessment all need sustained attention. That is why working with communities and partners matters.\n\nThrough monitoring and assessment with BPDASHL Sampara, GAHARU helps document plant conditions so the next steps reflect realities on the ground."
+      },
+      "cover": {
+        "url": "https://images.pexels.com/photos/12785141/pexels-photo-12785141.jpeg?auto=compress&cs=tinysrgb",
+        "alt": { "id": "Nelayan di kawasan perairan mangrove", "en": "A fisher in mangrove waters" },
+        "credit": "RAVI LAGES / Pexels (foto ilustrasi)",
+        "creditUrl": "https://www.pexels.com/photo/a-fisherman-casting-a-fishing-net-12785141/"
+      }
+    },
+    {
+      "slug": "biogas-dan-energi-desa",
+      "category": "edukasi",
+      "publishedAt": "2026-08-12",
+      "readTime": 4,
+      "title": { "id": "Biogas dan pilihan energi yang lebih dekat dengan desa", "en": "Biogas and energy choices closer to home" },
+      "excerpt": { "id": "Mengenal cara limbah organik dapat menjadi sumber energi dan mengapa konteks lokal selalu penting.", "en": "How organic waste can become energy, and why local context always matters." },
+      "body": {
+        "id": "Biogas dihasilkan ketika bahan organik terurai tanpa oksigen. Dalam kondisi yang tepat, gas yang dihasilkan dapat dimanfaatkan sebagai sumber energi, sementara residunya perlu dikelola dengan baik.\n\n## Teknologi yang harus sesuai kebutuhan\n\nTidak ada satu solusi energi yang cocok untuk semua tempat. Ketersediaan bahan, pengelolaan, biaya, dan kemampuan perawatan perlu dipahami sebelum sebuah sistem diterapkan.\n\nGAHARU melihat pengembangan energi biogas sebagai salah satu jalan untuk menghubungkan kebutuhan masyarakat dengan pilihan yang lebih ramah lingkungan. Rincian capaian program akan dipublikasikan setelah data pendukungnya siap.",
+        "en": "Biogas is produced when organic matter breaks down without oxygen. In the right conditions, the gas can be used for energy, while the remaining material must be managed responsibly.\n\n## Technology must fit local needs\n\nNo single energy solution works everywhere. Feedstock availability, management, costs, and maintenance capacity must be understood before a system is introduced.\n\nGAHARU sees biogas development as one way to connect community needs with cleaner choices. Program outcomes will be published when supporting data is ready."
+      },
+      "cover": {
+        "url": "https://images.pexels.com/photos/20344373/pexels-photo-20344373.jpeg?auto=compress&cs=tinysrgb",
+        "alt": { "id": "Kegiatan peternakan di dekat instalasi biogas", "en": "Livestock activity near a biogas installation" },
+        "credit": "EqualStock IN / Pexels (foto ilustrasi)",
+        "creditUrl": "https://www.pexels.com/photo/farmer-in-indian-village-20344373/"
+      }
+    }
+  ]
+}
