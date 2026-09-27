@@ -221,7 +221,9 @@ function Header() {
   const [menuOpen, setMenuOpen] = useState(false);
   const location = useLocation();
 
-  useEffect(() => setMenuOpen(false), [location.pathname]);
+  useEffect(() => {
+    setMenuOpen(false);
+  }, [location.pathname]);
   useEffect(() => {
     if (!menuOpen) return;
     const handleEscape = (event: KeyboardEvent) => {
@@ -415,7 +417,12 @@ function PageSeo({ page, image }: { page: keyof AppContent["site"]["seo"]; image
 
 function ScrollToTop() {
   const { pathname } = useLocation();
-  useEffect(() => window.scrollTo(0, 0), [pathname]);
+  // Wajib memakai block body: pada sebagian browser `window.scrollTo()` mengembalikan
+  // Promise, dan React memperlakukan nilai balik effect sebagai cleanup function
+  // ("destroy is not a function") sehingga seluruh tree ikut ter-unmount (halaman blank).
+  useEffect(() => {
+    window.scrollTo(0, 0);
+  }, [pathname]);
   return null;
 }
 
